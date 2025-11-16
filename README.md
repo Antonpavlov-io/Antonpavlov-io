@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with C++
 - 💬 Ask me about hobbies
 - 📫 How to reach me: tg @Antonpavlov01
-- ⚡ Fun fact: love cats and coffe
+- ⚡ Fun fact: love cats and coffee
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anton-pavlov-3a2453361) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:antonpavlov.srg@gmail.com) 
