@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on IT compan
-- 🌱 I’m currently learning IT
+- 🔭 I’m currently working on IT company
+- 🌱 I’m currently learning Tenenbaum books
 - 👯 I’m looking to collaborate on AI
 - 🤔 I’m looking for help with C++
 - 💬 Ask me about hobbies
